@@ -1,6 +1,16 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&center=true&width=435&lines=HI%2C+I'm+Vandana%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=HI%2C+I'm+Vandana%F0%9F%91%8B)](https://git.io/typing-svg)
+<div align='center'>
 
+## ✧ about me ✧
+
+<p align="left">
+- 2nd year cse ai student <br/>
+- web development & problem solving <br/>
+- learning through projects <br/>
+- focused on consistent growth
+</p>
+</div>
 
 <div align="center">
 
