@@ -4,7 +4,7 @@
 
 ## ✧ about me ✧
 
-<p align="left">
+<p align="center">
 - 2nd year cse ai student <br/>
 - web development & problem solving <br/>
 - learning through projects <br/>
@@ -51,12 +51,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandana512&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000000" />
 </p>
 
----
 
-### 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/vandana512
-- Email: vandana215btcseai24@igdtuw.ac.in  
 
+<div align='center'>
+
+### ✧ contact me ✧ 
+
+<a href="https://www.linkedin.com/in/vandana512" target="_blank">
+      linkedin |
+</a> 
+<a href="mailto:vandana215btcseai24@igdtuw.ac.in">
+      mail | 
+</a>
+<a href="https://x.com/vandanaaa512">
+      X
+</a>
+
+</div>
+
+<br>
 <p align="center">
-🤍
+🤍🤍🤍
 </p>
